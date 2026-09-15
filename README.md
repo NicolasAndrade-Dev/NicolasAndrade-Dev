@@ -1,4 +1,4 @@
-💻 Desenvolvedor em formação | 🎓 Técnico em Informática | 🤖 Inteligência Artificial
+#💻 Desenvolvedor em formação | 🎓 Técnico em Informática | 🤖 Inteligência Artificial
 
 Sou estudante do **3º ano do curso Técnico em Informática Integrado ao Ensino Médio do IFSP – Campus Capivari**, com duração de 4 anos.
 
