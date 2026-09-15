@@ -10,10 +10,10 @@
 
 <p>
   <a href="mailto:nicolasazevedo.an@gmail.com">
-    <img src="https://img.shields.io/badge/Email-nicolasazevedo.an%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Email-nicolasazevedo.an%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://github.com/NicolasAndrade-Dev">
-    <img src="https://img.shields.io/badge/GitHub-NicolasAndrade--Dev-0D1117?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-NicolasAndrade--Dev-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
@@ -27,20 +27,22 @@ Sou estudante do **3º ano do curso Técnico em Informática Integrado ao Ensino
 
 Tenho interesse em **desenvolvimento de software, aplicações Web e Mobile, lógica de programação, bancos de dados e Inteligência Artificial aplicada ao desenvolvimento**.
 
-Meu foco é construir uma base sólida de programação e, ao mesmo tempo, utilizar ferramentas modernas para desenvolver soluções de forma mais rápida e eficiente.
+Busco transformar conhecimento em projetos reais, explorando diferentes tecnologias e desenvolvendo soluções cada vez mais completas.
 
-> **Acredito que IA é uma ferramenta para potencializar o programador — não substituir os fundamentos da programação.**
+Tenho conhecimento em **lógica de programação em nível intermediário/avançado** e experiência com desenvolvimento utilizando ferramentas de Inteligência Artificial como apoio ao processo de programação.
+
+> **Acredito que a IA deve potencializar o programador, sem substituir os fundamentos da programação.**
 
 ---
 
-## 🧠 O que faço
+# 🧠 Conhecimentos
 
 <div align="center">
 
 <table>
 <tr>
 <th>Área</th>
-<th>Conhecimento</th>
+<th>Nível / Conhecimento</th>
 </tr>
 
 <tr>
@@ -70,22 +72,27 @@ Meu foco é construir uma base sólida de programação e, ao mesmo tempo, utili
 
 <tr>
 <td>🐍 Python</td>
-<td>Base de desenvolvimento</td>
+<td>Desenvolvimento e aplicações</td>
 </tr>
 
 <tr>
 <td>🟣 Kotlin</td>
-<td>Base de desenvolvimento</td>
+<td>Desenvolvimento Android</td>
 </tr>
 
 <tr>
 <td>⚙️ C++</td>
-<td>Base de desenvolvimento</td>
+<td>Fundamentos e programação</td>
 </tr>
 
 <tr>
 <td>🌐 HTML / CSS / JavaScript</td>
-<td>Base de desenvolvimento</td>
+<td>Desenvolvimento Web</td>
+</tr>
+
+<tr>
+<td>🐍 Django</td>
+<td>Desenvolvimento Web com Python</td>
 </tr>
 
 </table>
@@ -94,41 +101,66 @@ Meu foco é construir uma base sólida de programação e, ao mesmo tempo, utili
 
 ---
 
-# 🛠️ Tecnologias e Conhecimentos
+# 🛠️ Tecnologias
 
-### 💻 Linguagens
+## 💻 Linguagens
 
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+
 </p>
 
-### 🌐 Desenvolvimento Web
+---
+
+## 🌐 Desenvolvimento Web
 
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+
 </p>
 
-### 📱 Desenvolvimento Mobile
+---
+
+## 📱 Desenvolvimento Mobile
 
 <p align="center">
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white">
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white">
+
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
+
+<img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose">
+
 </p>
 
-### 🗄️ Bancos de Dados
+---
+
+## 🗄️ Bancos de Dados
 
 <p align="center">
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+
 </p>
 
 ---
@@ -141,20 +173,57 @@ Utilizo diferentes ferramentas e modelos de IA como parte do processo de desenvo
 
 <div align="center">
 
-| Aplicação | Objetivo |
-|:---:|:---|
-| 🧠 Estudo | Compreender conceitos e tecnologias |
-| 🔎 Análise | Entender e revisar código |
-| 🐛 Debugging | Identificar e solucionar problemas |
-| ⚡ Prototipação | Transformar ideias em protótipos |
-| 🔄 Refatoração | Melhorar estrutura e qualidade do código |
-| 📚 Aprendizado | Explorar novas tecnologias |
-| 🤖 Automação | Automatizar tarefas repetitivas |
-| 💡 Desenvolvimento | Acelerar a implementação de soluções |
+<table>
+<tr>
+<th>Aplicação</th>
+<th>Objetivo</th>
+</tr>
+
+<tr>
+<td>🧠 Estudo</td>
+<td>Compreender conceitos e tecnologias</td>
+</tr>
+
+<tr>
+<td>🔎 Análise</td>
+<td>Entender e revisar código</td>
+</tr>
+
+<tr>
+<td>🐛 Debugging</td>
+<td>Identificar e solucionar problemas</td>
+</tr>
+
+<tr>
+<td>⚡ Prototipação</td>
+<td>Transformar ideias em protótipos</td>
+</tr>
+
+<tr>
+<td>🔄 Refatoração</td>
+<td>Melhorar estrutura e qualidade do código</td>
+</tr>
+
+<tr>
+<td>📚 Aprendizado</td>
+<td>Explorar novas tecnologias</td>
+</tr>
+
+<tr>
+<td>🤖 Automação</td>
+<td>Automatizar tarefas</td>
+</tr>
+
+<tr>
+<td>💡 Desenvolvimento</td>
+<td>Acelerar a implementação de soluções</td>
+</tr>
+
+</table>
 
 </div>
 
-Também utilizo **Vibe Coding** como uma abordagem de desenvolvimento, combinando criatividade, experimentação e ferramentas de IA com os fundamentos tradicionais de programação.
+Também utilizo **Vibe Coding** como uma abordagem de desenvolvimento, combinando criatividade, experimentação, raciocínio lógico e ferramentas de IA com os fundamentos tradicionais de programação.
 
 ---
 
@@ -165,88 +234,99 @@ Também utilizo **Vibe Coding** como uma abordagem de desenvolvimento, combinand
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-<h3>🎮 NGGAMES</h3>
+<h2>🎮</h2>
 
-<p>
+<h3>NGGAMES</h3>
+
 <strong>Loja de jogos digitais</strong>
-</p>
 
-<p>
+<br><br>
+
 Plataforma Web desenvolvida para uma loja de jogos de Xbox One e Xbox Series S/X.
-</p>
 
-<p>
+<br><br>
+
 Catálogo de produtos, categorias, promoções, lançamentos, carrinho, autenticação e fluxo de compra.
-</p>
 
-<p>
-<code>Web</code>
-<code>JavaScript</code>
+<br><br>
+
 <code>HTML</code>
 <code>CSS</code>
-</p>
+<code>JavaScript</code>
+
+<br><br>
 
 <a href="https://nggames-cyan.vercel.app/">
-<b>🔗 Acessar projeto</b>
+
+<strong>🔗 ACESSAR PROJETO</strong>
+
 </a>
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-<h3>🎟️ Gerenciador de Contas</h3>
+<h2>🎟️</h2>
 
-<p>
+<h3>Gerenciador de Contas</h3>
+
 <strong>Gerenciamento de contas e jogos</strong>
-</p>
 
-<p>
+<br><br>
+
 Sistema desenvolvido para organizar contas de jogos e seus respectivos títulos.
-</p>
 
-<p>
-Possui gerenciamento de contas, jogos, busca, autenticação e painel administrativo.
-</p>
+<br><br>
 
-<p>
+Possui gerenciamento de contas, jogos, pesquisa, autenticação e painel administrativo.
+
+<br><br>
+
 <code>Web</code>
 <code>JavaScript</code>
-<code>Banco de Dados</code>
-</p>
+<code>Database</code>
+
+<br><br>
 
 <a href="https://contas-xbox-adm.vercel.app/">
-<b>🔗 Acessar projeto</b>
+
+<strong>🔗 ACESSAR PROJETO</strong>
+
 </a>
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-<h3>📦 OrderManager</h3>
+<h2>📦</h2>
 
-<p>
+<h3>OrderManager</h3>
+
 <strong>Gestão comercial para Android</strong>
-</p>
 
-<p>
+<br><br>
+
 Aplicação Android para gerenciamento de clientes, produtos, estoque, pedidos e usuários.
-</p>
 
-<p>
-Desenvolvido com arquitetura MVVM e persistência local.
-</p>
+<br><br>
 
-<p>
+Desenvolvido utilizando arquitetura MVVM e persistência local.
+
+<br><br>
+
 <code>Kotlin</code>
 <code>Compose</code>
 <code>MVVM</code>
 <code>Room</code>
-</p>
+
+<br><br>
 
 <a href="https://github.com/NicolasAndrade-Dev/OrderManager">
-<b>🔗 Ver projeto</b>
+
+<strong>🔗 VER PROJETO</strong>
+
 </a>
 
 </td>
@@ -267,46 +347,67 @@ Desenvolvido com arquitetura MVVM e persistência local.
 
 <td width="33%" align="center">
 
-### 🎮 NGGAMES
+<h3>🎮 NGGAMES</h3>
 
-**Aplicação publicada**
+<strong>Aplicação Web publicada</strong>
 
-Catálogo de jogos  
-Carrinho  
-Autenticação  
-Categorias  
-Promoções  
-Fluxo de compra
+<br><br>
 
-</td>
+📦 Catálogo de jogos
 
-<td width="33%" align="center">
+🛒 Carrinho
 
-### 🎟️ Gerenciador
+🔐 Autenticação
 
-**Sistema administrativo**
+🏷️ Categorias
 
-Contas  
-Jogos  
-Pesquisa  
-Autenticação  
-Painel Admin  
-Gerenciamento
+🔥 Promoções
+
+💳 Fluxo de compra
 
 </td>
 
 <td width="33%" align="center">
 
-### 📦 OrderManager
+<h3>🎟️ Gerenciador</h3>
 
-**Aplicação Android**
+<strong>Sistema de gerenciamento</strong>
 
-Kotlin  
-Jetpack Compose  
-MVVM  
-Room  
-DataStore  
-Dashboard
+<br><br>
+
+👤 Contas
+
+🎮 Jogos
+
+🔎 Pesquisa
+
+🔐 Autenticação
+
+⚙️ Painel Admin
+
+📋 Gerenciamento
+
+</td>
+
+<td width="33%" align="center">
+
+<h3>📦 OrderManager</h3>
+
+<strong>Aplicação Android</strong>
+
+<br><br>
+
+🟣 Kotlin
+
+🎨 Jetpack Compose
+
+🏗️ MVVM
+
+🗄️ Room
+
+💾 DataStore
+
+📊 Dashboard
 
 </td>
 
@@ -319,22 +420,23 @@ Dashboard
 
 # 🎓 Formação
 
-### 🏫 IFSP — Campus Capivari
+## 🏫 IFSP — Campus Capivari
 
 **Técnico em Informática Integrado ao Ensino Médio**
 
 📚 **3º ano de 4**
 
-Durante a formação venho desenvolvendo conhecimentos em:
+Durante minha formação venho desenvolvendo conhecimentos em:
 
-- Programação
-- Engenharia de Software
-- Desenvolvimento Web
-- Desenvolvimento Mobile
-- Banco de Dados
-- Estruturas e lógica de programação
-- Desenvolvimento de projetos
-- Inteligência Artificial aplicada à tecnologia
+- 💻 Programação
+- 🧠 Lógica de programação
+- 🌐 Desenvolvimento Web
+- 📱 Desenvolvimento Mobile
+- 🗄️ Banco de Dados
+- 🏗️ Engenharia de Software
+- 🤖 Inteligência Artificial
+- 🧪 Desenvolvimento de projetos
+- 🔧 Resolução de problemas
 
 ---
 
@@ -342,16 +444,53 @@ Durante a formação venho desenvolvendo conhecimentos em:
 
 <div align="center">
 
-| Área | Foco |
-|:---:|:---|
-| 🧠 Programação | Lógica e resolução de problemas |
-| 🐍 Python | Desenvolvimento e aplicações |
-| 🌐 Web | Front-end e aplicações Web |
-| 📱 Mobile | Android e Kotlin |
-| ⚙️ C++ | Programação e fundamentos |
-| 🗄️ Banco de Dados | Modelagem e persistência |
-| 🤖 IA | IA aplicada ao desenvolvimento |
-| 🏗️ Engenharia de Software | Arquitetura e organização de projetos |
+<table>
+<tr>
+<th>Área</th>
+<th>Foco</th>
+</tr>
+
+<tr>
+<td>🧠 Programação</td>
+<td>Lógica e resolução de problemas</td>
+</tr>
+
+<tr>
+<td>🐍 Python</td>
+<td>Desenvolvimento e aplicações</td>
+</tr>
+
+<tr>
+<td>🌐 Web</td>
+<td>Front-end e aplicações Web</td>
+</tr>
+
+<tr>
+<td>📱 Mobile</td>
+<td>Android e Kotlin</td>
+</tr>
+
+<tr>
+<td>⚙️ C++</td>
+<td>Programação e fundamentos</td>
+</tr>
+
+<tr>
+<td>🗄️ Banco de Dados</td>
+<td>Modelagem e persistência</td>
+</tr>
+
+<tr>
+<td>🤖 Inteligência Artificial</td>
+<td>IA aplicada ao desenvolvimento</td>
+</tr>
+
+<tr>
+<td>🏗️ Engenharia de Software</td>
+<td>Arquitetura e organização de projetos</td>
+</tr>
+
+</table>
 
 </div>
 
@@ -361,13 +500,24 @@ Durante a formação venho desenvolvendo conhecimentos em:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NicolasAndrade-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api?username=NicolasAndrade-Dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
+  alt="Estatísticas do GitHub"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasAndrade-Dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img
+  height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasAndrade-Dev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+  alt="Linguagens mais utilizadas"
+/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=NicolasAndrade-Dev&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+<img
+  src="https://streak-stats.demolab.com?user=NicolasAndrade-Dev&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </div>
 
@@ -379,6 +529,32 @@ Busco evoluir continuamente como desenvolvedor, fortalecendo meus fundamentos de
 
 Meu objetivo é construir experiência em desenvolvimento de software, explorando diferentes tecnologias e aprendendo a projetar, desenvolver e manter aplicações cada vez mais completas.
 
+Quero continuar evoluindo principalmente em:
+
+- 🧠 Lógica e fundamentos
+- 💻 Desenvolvimento de software
+- 🌐 Desenvolvimento Web
+- 📱 Desenvolvimento Mobile
+- 🤖 Inteligência Artificial
+- 🗄️ Banco de Dados
+- 🏗️ Engenharia de Software
+
+---
+
+# 📫 Contato
+
+<div align="center">
+
+<a href="mailto:nicolasazevedo.an@gmail.com">
+<img src="https://img.shields.io/badge/Email-nicolasazevedo.an%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+<a href="https://github.com/NicolasAndrade-Dev">
+<img src="https://img.shields.io/badge/GitHub-NicolasAndrade--Dev-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+</div>
+
 ---
 
 <div align="center">
@@ -387,16 +563,6 @@ Meu objetivo é construir experiência em desenvolvimento de software, explorand
 
 <br>
 
-<a href="mailto:nicolasazevedo.an@gmail.com">
-<img src="https://img.shields.io/badge/Entre%20em%20contato-0D1117?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://github.com/NicolasAndrade-Dev">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<br><br>
-
-⭐ Obrigado por visitar meu perfil!
+⭐ **Obrigado por visitar meu perfil!**
 
 </div>
