@@ -2,164 +2,162 @@
 
 <img src="./ceu-estrelado.svg" width="100%" alt="Céu estrelado">
 
-# 💻 Desenvolvedor em formação
+<br>
 
-### 🎓 Técnico em Informática • 🤖 Inteligência Artificial • 🚀 Desenvolvimento de Software
+# 💻 Nicolas De Azevedo Andrade Santana
+
+### Desenvolvedor em formação • Técnico em Informática • IA aplicada ao desenvolvimento
+
+<p>
+  <a href="mailto:nicolasazevedo.an@gmail.com">
+    <img src="https://img.shields.io/badge/Email-nicolasazevedo.an%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/NicolasAndrade-Dev">
+    <img src="https://img.shields.io/badge/GitHub-NicolasAndrade--Dev-0D1117?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 👋 Olá, eu sou Nicolas De Azevedo Andrade Santana
+## 👨‍💻 Sobre mim
 
-Sou estudante do **3º ano do curso Técnico em Informática Integrado ao Ensino Médio do IFSP – Campus Capivari**, com duração de **4 anos**.
+Sou estudante do **3º ano do curso Técnico em Informática Integrado ao Ensino Médio do IFSP — Campus Capivari**, em uma formação de 4 anos.
 
-Tenho conhecimentos em **desenvolvimento de software, lógica de programação, desenvolvimento Web, Mobile, bancos de dados e Inteligência Artificial**.
+Tenho interesse em **desenvolvimento de software, aplicações Web e Mobile, lógica de programação, bancos de dados e Inteligência Artificial aplicada ao desenvolvimento**.
 
-Também utilizo **Vibe Coding e programação assistida por IA** como ferramentas para acelerar o desenvolvimento, prototipar ideias, aprender novas tecnologias e resolver problemas.
+Meu foco é construir uma base sólida de programação e, ao mesmo tempo, utilizar ferramentas modernas para desenvolver soluções de forma mais rápida e eficiente.
 
----
-
-## 🚀 Sobre mim
-
-- 🎓 Técnico em Informática em formação pelo **IFSP – Campus Capivari**
-- 📚 Atualmente no **3º ano do Ensino Médio Integrado**
-- 💻 Lógica de Programação — **Intermediário/Avançado**
-- 🤖 Programação assistida por Inteligência Artificial — **Intermediário/Avançado**
-- 🌐 Desenvolvimento Web
-- 📱 Desenvolvimento Mobile
-- 🗄️ Bancos de Dados
-- ⚡ Vibe Coding
-- 🔧 Desenvolvimento de projetos e protótipos
+> **Acredito que IA é uma ferramenta para potencializar o programador — não substituir os fundamentos da programação.**
 
 ---
 
-## 🛠️ Tecnologias e Conhecimentos
+## 🧠 O que faço
+
+| Área | Conhecimento |
+|---|---|
+| 🧩 Lógica de Programação | **Intermediário / Avançado** |
+| 🤖 Programação com IA | **Intermediário / Avançado** |
+| 🌐 Desenvolvimento Web | Conhecimento e projetos |
+| 📱 Desenvolvimento Mobile | Conhecimento e projetos |
+| 🗄️ Banco de Dados | SQLite e MySQL |
+| 🐍 Python | Base de desenvolvimento |
+| 🟣 Kotlin | Base de desenvolvimento |
+| ⚙️ C++ | Base de desenvolvimento |
+| 🎨 HTML / CSS / JavaScript | Base de desenvolvimento |
+
+---
+
+# 🛠️ Tecnologias
+
+### 🌐 Web
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+</p>
 
 ### 💻 Linguagens
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 </p>
-
-**Conhecimentos:**
-
-- HTML
-- CSS
-- JavaScript
-- Python
-- Django
-- Kotlin
-- C++
-
----
 
 ### 🗄️ Bancos de Dados
 
 <p>
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
-
-- SQLite
-- MySQL
 
 ---
 
-### 🧠 Lógica e Desenvolvimento
+# 🤖 Inteligência Artificial no desenvolvimento
 
-- Lógica de Programação — **Intermediário/Avançado**
-- Estruturas de programação
-- Desenvolvimento de aplicações
+Utilizo Inteligência Artificial como uma ferramenta integrada ao meu processo de desenvolvimento.
+
+Tenho conhecimento **intermediário/avançado em programação assistida por IA** e utilizo diferentes ferramentas para:
+
+- 🧠 entender e estudar conceitos de programação;
+- 🔎 analisar e explicar código;
+- 🐛 identificar e corrigir problemas;
+- ⚡ acelerar prototipação;
+- 🏗️ desenvolver aplicações;
+- 🔄 refatorar e melhorar código;
+- 📚 aprender novas tecnologias;
+- 🤖 automatizar tarefas;
+- 💡 transformar ideias em protótipos funcionais.
+
+Também utilizo **Vibe Coding** como uma abordagem de desenvolvimento, combinando criatividade, experimentação e ferramentas de IA com os fundamentos tradicionais de programação.
+
+---
+
+# 🎓 Formação
+
+### 🏫 IFSP — Campus Capivari
+
+**Técnico em Informática Integrado ao Ensino Médio**
+
+📚 **3º ano de 4**
+
+Durante a formação venho desenvolvendo conhecimentos em:
+
+- Programação
+- Engenharia de Software
 - Desenvolvimento Web
 - Desenvolvimento Mobile
 - Banco de Dados
-- Automação
-- Prototipação de projetos
+- Estruturas e lógica de programação
+- Desenvolvimento de projetos
+- Inteligência Artificial aplicada à tecnologia
 
 ---
 
-## 🤖 Inteligência Artificial
+# 🚀 Projetos em destaque
 
-Possuo conhecimento **intermediário a avançado em Inteligência Artificial aplicada à programação e ao desenvolvimento de software**.
-
-Utilizo diferentes ferramentas e modelos de IA para:
-
-- 💡 Desenvolvimento e prototipação
-- 🔍 Análise e explicação de código
-- 🐛 Debugging e resolução de problemas
-- ⚙️ Automação de tarefas
-- 📚 Aprendizado de novas tecnologias
-- ✨ Geração e otimização de código
-- ⚡ Desenvolvimento utilizando **Vibe Coding**
-- 🧩 Criação e implementação de soluções com auxílio de IA
-
-> **IA é uma ferramenta. O conhecimento de programação é o que permite usá-la bem.**
-
----
-
-## 📌 Projetos em Destaque
-
-### 🛒 OrderManager
+## 🛒 OrderManager
 
 Sistema desenvolvido em **Kotlin** para gerenciamento de pedidos.
 
-**Tecnologias:**
+### Tecnologias
 
-`Kotlin` `Lógica de Programação` `Gerenciamento de dados`
+`Kotlin` `Lógica de Programação` `Gerenciamento de Dados`
+
+O projeto tem como objetivo aplicar conceitos de programação na construção de uma aplicação voltada para organização e gerenciamento de pedidos.
 
 ---
 
-### 🌐 ODS2 Fome Zero
+## 🌱 ODS 2 — Fome Zero
 
-Projeto Web desenvolvido com foco no **ODS 2 – Fome Zero**.
+Projeto Web desenvolvido com foco no **Objetivo de Desenvolvimento Sustentável 2 — Fome Zero**.
 
-**Tecnologias:**
+### Tecnologias
 
 `HTML` `CSS` `JavaScript`
 
----
-
-## 📈 Atualmente estudando
-
-🌱 Continuo desenvolvendo meus conhecimentos em:
-
-- Python
-- Desenvolvimento Web
-- Kotlin
-- C++
-- Bancos de Dados
-- Inteligência Artificial
-- Automação
-- Desenvolvimento de Software
+O projeto utiliza desenvolvimento Web para apresentar informações e uma proposta relacionada ao combate à fome e à segurança alimentar.
 
 ---
 
-## 🎯 Objetivo
+# 📚 Atualmente estudando
 
-Busco constantemente evoluir minhas habilidades em **programação e tecnologia**, desenvolvendo projetos que me permitam transformar conhecimento em soluções reais.
-
-Estou construindo minha experiência **projeto por projeto, aprendendo continuamente e explorando novas tecnologias.**
-
----
-
-## 📫 Contato
-
-📧 **E-mail:** [nicolasazevedo.an@gmail.com](mailto:nicolasazevedo.an@gmail.com)
-
-💼 **GitHub:** [NicolasAndrade-Dev](https://github.com/NicolasAndrade-Dev)
-
----
-
-<div align="center">
-
-### 🌌 "Grandes projetos começam com boas ideias."
-
-⭐ Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução!
-
-</div>
+```text
+┌──────────────────────────────────────────┐
+│                                          │
+│  🧠 Lógica de Programação                │
+│  🐍 Python                               │
+│  🌐 Desenvolvimento Web                  │
+│  📱 Desenvolvimento Mobile               │
+│  🟣 Kotlin                               │
+│  ⚙️ C++                                  │
+│  🗄️ Bancos de Dados                      │
+│  🤖 Inteligência Artificial               │
+│  ⚡ Automação                             │
+│  🏗️ Engenharia de Software               │
+│                                          │
+└──────────────────────────────────────────┘
