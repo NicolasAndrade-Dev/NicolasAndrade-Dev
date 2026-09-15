@@ -1,0 +1,277 @@
+<svg width="1600" height="420" viewBox="0 0 1600 420"
+     fill="none" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <!-- Fundo -->
+    <linearGradient id="background"
+                    x1="800" y1="0"
+                    x2="800" y2="420"
+                    gradientUnits="userSpaceOnUse">
+      <stop stop-color="#020617"/>
+      <stop offset="0.55" stop-color="#06152F"/>
+      <stop offset="1" stop-color="#01040D"/>
+    </linearGradient>
+
+    <!-- Brilho azul -->
+    <radialGradient id="skyGlow"
+                    cx="0" cy="0" r="1"
+                    gradientUnits="userSpaceOnUse"
+                    gradientTransform="translate(800 250) rotate(90) scale(230 750)">
+      <stop stop-color="#0EA5E9" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Brilho das estrelas -->
+    <radialGradient id="starGlow">
+      <stop stop-color="white"/>
+      <stop offset="0.2" stop-color="#BAE6FD"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Montanhas -->
+    <linearGradient id="mountains"
+                    x1="800" y1="250"
+                    x2="800" y2="420"
+                    gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1D3A"/>
+      <stop offset="1" stop-color="#01050F"/>
+    </linearGradient>
+
+    <filter id="blur">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+
+    <filter id="softBlur">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+
+  </defs>
+
+  <!-- ========================= -->
+  <!-- CÉU -->
+  <!-- ========================= -->
+
+  <rect width="1600" height="420" fill="url(#background)"/>
+
+  <rect width="1600" height="420" fill="url(#skyGlow)"/>
+
+  <!-- Nebulosidade -->
+  <ellipse
+    cx="800"
+    cy="235"
+    rx="550"
+    ry="110"
+    fill="#0EA5E9"
+    opacity="0.04"
+    filter="url(#softBlur)"
+  />
+
+  <ellipse
+    cx="1150"
+    cy="150"
+    rx="320"
+    ry="100"
+    fill="#6366F1"
+    opacity="0.035"
+    filter="url(#softBlur)"
+  />
+
+  <!-- ========================= -->
+  <!-- ESTRELAS -->
+  <!-- ========================= -->
+
+  <g fill="#E0F2FE">
+
+    <circle cx="80" cy="72" r="1.4"/>
+    <circle cx="145" cy="180" r="1"/>
+    <circle cx="210" cy="92" r="1.8"/>
+    <circle cx="275" cy="145" r="1"/>
+    <circle cx="330" cy="55" r="1.2"/>
+    <circle cx="395" cy="205" r="1.5"/>
+    <circle cx="455" cy="115" r="1"/>
+    <circle cx="520" cy="48" r="1.6"/>
+    <circle cx="575" cy="165" r="1"/>
+    <circle cx="640" cy="92" r="1.2"/>
+    <circle cx="700" cy="38" r="1"/>
+    <circle cx="760" cy="145" r="1.7"/>
+    <circle cx="835" cy="62" r="1"/>
+    <circle cx="900" cy="118" r="1.3"/>
+    <circle cx="970" cy="45" r="1.6"/>
+    <circle cx="1035" cy="170" r="1"/>
+    <circle cx="1095" cy="82" r="1.2"/>
+    <circle cx="1160" cy="130" r="1.7"/>
+    <circle cx="1230" cy="52" r="1"/>
+    <circle cx="1290" cy="185" r="1.3"/>
+    <circle cx="1360" cy="95" r="1.8"/>
+    <circle cx="1430" cy="155" r="1"/>
+    <circle cx="1500" cy="68" r="1.4"/>
+    <circle cx="1560" cy="215" r="1"/>
+
+    <circle cx="120" cy="255" r="0.9"/>
+    <circle cx="250" cy="225" r="1.1"/>
+    <circle cx="365" cy="275" r="0.9"/>
+    <circle cx="480" cy="235" r="1.1"/>
+    <circle cx="610" cy="285" r="0.8"/>
+    <circle cx="745" cy="245" r="1"/>
+    <circle cx="870" cy="285" r="0.9"/>
+    <circle cx="1000" cy="240" r="1.2"/>
+    <circle cx="1130" cy="275" r="0.8"/>
+    <circle cx="1250" cy="245" r="1"/>
+    <circle cx="1390" cy="285" r="1.1"/>
+    <circle cx="1510" cy="250" r="0.8"/>
+
+  </g>
+
+  <!-- ========================= -->
+  <!-- ESTRELAS PRINCIPAIS -->
+  <!-- ========================= -->
+
+  <g>
+
+    <circle cx="190" cy="115" r="18"
+            fill="url(#starGlow)"
+            opacity="0.22"/>
+
+    <circle cx="190" cy="115" r="2.3"
+            fill="white"/>
+
+    <path d="M190 103V127M178 115H202"
+          stroke="#BAE6FD"
+          stroke-width="0.8"/>
+
+
+    <circle cx="570" cy="105" r="15"
+            fill="url(#starGlow)"
+            opacity="0.18"/>
+
+    <circle cx="570" cy="105" r="2"
+            fill="white"/>
+
+    <path d="M570 96V114M561 105H579"
+          stroke="#BAE6FD"
+          stroke-width="0.7"/>
+
+
+    <circle cx="1120" cy="92" r="20"
+            fill="url(#starGlow)"
+            opacity="0.22"/>
+
+    <circle cx="1120" cy="92" r="2.5"
+            fill="white"/>
+
+    <path d="M1120 78V106M1106 92H1134"
+          stroke="#BAE6FD"
+          stroke-width="0.8"/>
+
+
+    <circle cx="1415" cy="118" r="16"
+            fill="url(#starGlow)"
+            opacity="0.18"/>
+
+    <circle cx="1415" cy="118" r="2"
+            fill="white"/>
+
+    <path d="M1415 108V128M1405 118H1425"
+          stroke="#BAE6FD"
+          stroke-width="0.7"/>
+
+  </g>
+
+  <!-- ========================= -->
+  <!-- ESTRELA CADENTE -->
+  <!-- ========================= -->
+
+  <g opacity="0.85">
+
+    <path
+      d="M1320 40L1205 105"
+      stroke="url(#starGlow)"
+      stroke-width="2"
+    />
+
+    <circle
+      cx="1320"
+      cy="40"
+      r="3"
+      fill="white"
+    />
+
+  </g>
+
+  <!-- ========================= -->
+  <!-- BRILHO DO HORIZONTE -->
+  <!-- ========================= -->
+
+  <ellipse
+    cx="800"
+    cy="335"
+    rx="650"
+    ry="45"
+    fill="#38BDF8"
+    opacity="0.10"
+    filter="url(#blur)"
+  />
+
+  <!-- ========================= -->
+  <!-- MONTANHAS -->
+  <!-- ========================= -->
+
+  <path
+    d="
+      M0 370
+      L115 300
+      L175 338
+      L280 260
+      L390 350
+      L500 285
+      L590 345
+      L700 255
+      L815 350
+      L930 270
+      L1035 350
+      L1150 245
+      L1270 350
+      L1390 275
+      L1500 340
+      L1600 280
+      V420
+      H0
+      Z"
+    fill="url(#mountains)"
+  />
+
+  <path
+    d="
+      M0 390
+      L150 330
+      L250 365
+      L380 315
+      L500 380
+      L650 320
+      L760 375
+      L900 310
+      L1020 375
+      L1180 315
+      L1320 380
+      L1460 325
+      L1600 365
+      V420
+      H0
+      Z"
+    fill="#01040C"
+  />
+
+  <!-- Pequenas luzes no horizonte -->
+
+  <g fill="#38BDF8" opacity="0.7">
+
+    <circle cx="420" cy="382" r="1.3"/>
+    <circle cx="455" cy="378" r="1"/>
+    <circle cx="1180" cy="378" r="1.2"/>
+    <circle cx="1215" cy="373" r="0.9"/>
+    <circle cx="1245" cy="380" r="1"/>
+
+  </g>
+
+</svg>
