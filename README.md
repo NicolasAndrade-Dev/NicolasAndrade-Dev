@@ -127,7 +127,7 @@ Estou construindo minha experiência **projeto por projeto, aprendendo continuam
 
 ## 📫 Contato
 
-📧 **Email:** seu-email@email.com
+📧 **E-mail:**  nicolasazevedo.an@gmail.com
 
 💼 **GitHub:** [NicolasAndrade-Dev](https://github.com/NicolasAndrade-Dev)
 
