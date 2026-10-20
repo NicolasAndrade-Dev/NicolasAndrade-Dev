@@ -57,7 +57,7 @@ Tenho conhecimento em **lógica de programação em nível intermediário/avanç
 
 <tr>
 <td>🌐 Desenvolvimento Web</td>
-<td>Conhecimento e projetos</td>
+<td>Intermediário / Avançado</td>
 </tr>
 
 <tr>
@@ -87,7 +87,7 @@ Tenho conhecimento em **lógica de programação em nível intermediário/avanç
 
 <tr>
 <td>🌐 HTML / CSS / JavaScript</td>
-<td>Desenvolvimento Web</td>
+<td>Intermediário / Avançado</td>
 </tr>
 
 <tr>
